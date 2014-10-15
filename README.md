@@ -9,4 +9,4 @@ Kazem Jahanbakhsh
 
 ## Contact
 
-For any question reach me using my gmail address on github.
+For any question reach me through my gmail address on github.
