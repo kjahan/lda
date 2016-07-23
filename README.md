@@ -1,5 +1,5 @@
-LDA Algorithms
-==============
+Latent Dirichlet Allocation Algorithm
+=====================================
 
 This is a Java implementation of Latent Dirichlet Allocation (LDA) algorithm using Gibbs sampling technique.
 
