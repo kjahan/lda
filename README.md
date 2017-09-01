@@ -7,7 +7,7 @@ To learn about how LDA works, you can read David Blei & Andrew Ng paper:
 
 http://machinelearning.wustl.edu/mlpapers/paper_files/BleiNJ03.pdf
 
-One essential problem in NLP is to model the language behind a collection of documents. In particular, one interesting NLP problem is to extract underlying topics from a collection of documents. LDA models a document as a bag of words in which words (w's) are the observed variables while topics are latent variables.
+One essential problem in NLP is to build a generative model to describe a collection of documents. In particular, one might be interested in extracting underlying topics from a collection of documents. LDA models a document as a bag of words in which words (w's) are the observed variables while topics are latent variables.
 
 ## Contributor
  
